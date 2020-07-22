@@ -1,0 +1,110 @@
+.grupaReci  {
+	
+position: absolute;
+border: 2px solid black;
+border-radius: 5px;
+width: 400px;
+height: 130px;
+left: 400px;
+top: 20px;
+text-align: center;
+text-transform: uppercase;
+padding: 10px;
+font-family: Verdana;
+
+}
+
+.reci  {
+
+display: inline-block;
+
+}
+
+.osmosmerka  {
+
+position: absolute;
+border: 1px solid white;
+width: 400px;
+left: 415px;
+top: 180px;
+
+}
+
+.rec {
+
+display: inline-block;
+border: 2px solid black;
+width: 30px;
+height: 30px;
+text-align: center;
+text-transform: uppercase;
+font-family: Verdana;
+font-size: 22px;
+padding: 3px;
+cursor: context-menu;
+
+}
+
+.crta {
+
+
+}
+
+.precrtano {
+
+
+}
+
+.recPrecrtana  {
+
+
+
+}
+
+.recPrecrtana2 {
+
+
+
+}
+
+
+.recZaokruzena  {
+
+background: orange;
+color: white;
+	
+}
+
+.recPronadjena {
+
+background: olivedrab;
+color: white;
+
+}
+
+
+.pretragaGotova {
+
+background: plum;
+color: white;
+
+}
+
+.vreme {
+
+position: absolute;
+font-family: Verdana;
+font-size: 25px;
+top: 835px;
+left: 580px;
+text-align: center;
+
+}
+
+.sat {
+
+position: absolute;
+top: 0px;
+left: 45px;
+
+}
